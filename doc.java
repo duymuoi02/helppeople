@@ -1,3 +1,4 @@
+//cai nay ne
 import java.util.Scanner;
 
 public class PrimeNumberCounter {
